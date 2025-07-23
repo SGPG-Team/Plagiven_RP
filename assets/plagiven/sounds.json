@@ -204,5 +204,6 @@
 	"common.bullet_fly_by":         {"sounds": ["plagiven:common/flyby01", "plagiven:common/flyby02", "plagiven:common/flyby03", "plagiven:common/flyby04", "plagiven:common/flyby05"]},
     "common.rocket_fly_by":         {"sounds": ["plagiven:common/rocket_flyby01", "plagiven:common/rocket_flyby02"]},
     "common.explode_far":           {"sounds": ["plagiven:common/explode_far0", "plagiven:common/explode_far1", "plagiven:common/explode_far2"]},
-    "common.reload_generic":        {"sounds": ["plagiven:common/reload_generic"]}
+    "common.reload_generic":        {"sounds": ["plagiven:common/reload_generic"]},
+	"bandage": 						{"sounds": ["plagiven:misc/bandage"]}
 }
