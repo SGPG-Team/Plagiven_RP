@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"particle": "block/soul_sand"
@@ -26,7 +27,7 @@
 		"firstperson_righthand": {
 			"rotation": [-155, 23, 141],
 			"translation": [-7.5, -0.1586, -9.9382],
-			"scale": [0.471, 0.515, 1.515]
+			"scale": [0, 0, 0]
 		},
 		"ground": {
 			"scale": [0, 0, 0]

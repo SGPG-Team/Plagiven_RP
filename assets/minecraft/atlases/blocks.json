@@ -371,6 +371,81 @@
         {
             "type": "single",
             "resource": "plagiven:gun/red_polymer_stripes"
+        },
+
+
+
+
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/ak47_uv"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/dp28_1"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/dp28_mag"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/bullet_chain"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/m249_edit_1"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/m249_front_3"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/rpg7"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/m16_a1bullet"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/m16a1_uv"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/fal_default_hg"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/fal_others"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/g3"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/7.62x51"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/m870_retextured"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/12_gauge"
         }
+
+
+
+
+
+
+
+
+
+
+
     ]
 }

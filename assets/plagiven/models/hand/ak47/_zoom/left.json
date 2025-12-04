@@ -1,23 +1,9 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"particle": "block/soul_sand"
 	},
-	"elements": [
-		{
-			"from": [7, 7, 7],
-			"to": [9, 9, 9],
-			"color": 7,
-			"faces": {
-				"north": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"east": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"south": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"west": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"up": {"uv": [0, 0, 2, 2], "texture": "#missing"},
-				"down": {"uv": [0, 0, 2, 2], "texture": "#missing"}
-			}
-		}
-	],
 	"display": {
 		"thirdperson_righthand": {
 			"scale": [0, 0, 0]
@@ -25,7 +11,7 @@
 		"firstperson_righthand": {
 			"rotation": [7, 149, 0],
 			"translation": [-12.5, 1.8414, -1.6882],
-			"scale": [0.471, 0.515, 1.515]
+			"scale": [0, 0, 0]
 		},
 		"ground": {
 			"scale": [0, 0, 0]
