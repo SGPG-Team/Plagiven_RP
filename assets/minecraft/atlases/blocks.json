@@ -371,10 +371,6 @@
         {
             "type": "single",
             "resource": "plagiven:gun/red_polymer_stripes"
-        },
-        {
-            "type": "single",
-            "resource": "plagiven:bandage/bandage"
         }
     ]
 }

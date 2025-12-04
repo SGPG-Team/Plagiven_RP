@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:item/weapons/grenade_thrown",
+    "tints": [
+      {
+          "type": "minecraft:custom_model_data",
+          "default": 0
+      }
+    ]
+  }
+}
