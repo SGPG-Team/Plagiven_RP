@@ -1,0 +1,7 @@
+{
+  "parent": "hl2:item/props/vehicles/gaz_24/gaz_24_body",
+  "textures": {
+    "main": "hl2:item/props/vehicles/gaz_24/gaz_24_race_01",
+    "particle": "hl2:item/props/vehicles/gaz_24/gaz_24_race_01"
+  }
+}

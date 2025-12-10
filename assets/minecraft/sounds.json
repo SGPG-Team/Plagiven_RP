@@ -1,0 +1,173 @@
+{
+    "hl2.vehicle.v8.start":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/v8/v8_start"}
+        ]
+    },
+    "hl2.vehicle.v8.end":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/v8/v8_stop"}
+        ]
+    },
+    "hl2.vehicle.v8.loop":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/v8/v8_loop_1"},
+          {"name": "hl2:vehicle/v8/v8_loop_2"},
+          {"name": "hl2:vehicle/v8/v8_loop_3"},
+          {"name": "hl2:vehicle/v8/v8_loop_4"},
+          {"name": "hl2:vehicle/v8/v8_loop_5"}
+        ]
+    },
+    "hl2.vehicle.v8.idle_loop":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/v8/v8_idle_loop_1"},
+          {"name": "hl2:vehicle/v8/v8_idle_loop_2"},
+          {"name": "hl2:vehicle/v8/v8_idle_loop_3"},
+          {"name": "hl2:vehicle/v8/v8_idle_loop_4"},
+          {"name": "hl2:vehicle/v8/v8_idle_loop_5"}
+        ]
+    },
+
+    "hl2.vehicle.generic2.start":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/generic2/generic2_start"}
+        ]
+    },
+    "hl2.vehicle.generic2.loop":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/generic2/generic2_loop_1"},
+          {"name": "hl2:vehicle/generic2/generic2_loop_2"},
+          {"name": "hl2:vehicle/generic2/generic2_loop_3"},
+          {"name": "hl2:vehicle/generic2/generic2_loop_4"},
+          {"name": "hl2:vehicle/generic2/generic2_loop_5"}
+        ]
+    },
+    "hl2.vehicle.generic2.idle_loop":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/generic2/generic2_idle_loop_1"},
+          {"name": "hl2:vehicle/generic2/generic2_idle_loop_2"},
+          {"name": "hl2:vehicle/generic2/generic2_idle_loop_3"},
+          {"name": "hl2:vehicle/generic2/generic2_idle_loop_4"},
+          {"name": "hl2:vehicle/generic2/generic2_idle_loop_5"}
+        ]
+    },
+
+    "hl2.vehicle.zaz.start":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/zaz/zaz_start"}
+        ]
+    },
+    "hl2.vehicle.zaz.stop":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/zaz/zaz_stop"}
+        ]
+    },
+    "hl2.vehicle.zaz.loop":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/zaz/zaz_loop_1"},
+          {"name": "hl2:vehicle/zaz/zaz_loop_2"},
+          {"name": "hl2:vehicle/zaz/zaz_loop_3"},
+          {"name": "hl2:vehicle/zaz/zaz_loop_4"},
+          {"name": "hl2:vehicle/zaz/zaz_loop_5"}
+        ]
+    },
+    "hl2.vehicle.zaz.idle_loop":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/zaz/zaz_idle_loop_1"},
+          {"name": "hl2:vehicle/zaz/zaz_idle_loop_2"},
+          {"name": "hl2:vehicle/zaz/zaz_idle_loop_3"},
+          {"name": "hl2:vehicle/zaz/zaz_idle_loop_4"},
+          {"name": "hl2:vehicle/zaz/zaz_idle_loop_5"}
+        ]
+    },
+
+    "hl2.vehicle.drift_loop":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/drift_loop_1"},
+          {"name": "hl2:vehicle/drift_loop_2"},
+          {"name": "hl2:vehicle/drift_loop_3"},
+          {"name": "hl2:vehicle/drift_loop_4"},
+          {"name": "hl2:vehicle/drift_loop_5"}
+        ]
+    },
+
+    "hl2.weapon.pistol.reload":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:weapon/pistol/pistol_reload_1"}
+        ]
+    },
+    "hl2.weapon.pistol.empty":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:weapon/pistol/pistol_empty"}
+        ]
+    },
+    "hl2.weapon.pistol.fire":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:weapon/pistol/pistol_fire_1"}
+        ]
+    },
+
+    "hl2.weapon.gravity_gun.fire":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:weapon/gravity_gun/superphys_launch_1"},
+          {"name": "hl2:weapon/gravity_gun/superphys_launch_2"},
+          {"name": "hl2:weapon/gravity_gun/superphys_launch_3"},
+          {"name": "hl2:weapon/gravity_gun/superphys_launch_4"}
+        ]
+    },
+    "hl2.weapon.gravity_gun.fail":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:weapon/gravity_gun/physcannon_dryfire"}
+        ]
+    },
+    "hl2.weapon.gravity_gun.pickup_fail":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:weapon/gravity_gun/physcannon_tooheavy"}
+        ]
+    },
+    "hl2.weapon.gravity_gun.pickup":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:weapon/gravity_gun/physcannon_pickup"}
+        ]
+    },
+    "hl2.weapon.gravity_gun.drop":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:weapon/gravity_gun/physcannon_drop"}
+        ]
+    },
+
+    "hl2.weapon.airboat.energy":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:weapon/airboat/airboat_gun_energy_1"},
+          {"name": "hl2:weapon/airboat/airboat_gun_energy_2"}
+        ]
+    },
+    "hl2.weapon.airboat.last_shot":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:weapon/airboat/airboat_gun_lastshot_1"},
+          {"name": "hl2:weapon/airboat/airboat_gun_lastshot_2"}
+        ]
+    }
+}

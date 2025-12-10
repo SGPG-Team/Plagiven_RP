@@ -1,0 +1,7 @@
+{
+  "parent": "hl2:item/weapon/gravity_gun/hl2_zero_point_energy_field_manipulator",
+  "textures": {
+    "main": "hl2:item/weapon/gravity_gun/hl2_zero_point_energy_field_manipulator_normal",
+    "particle": "hl2:item/weapon/gravity_gun/hl2_zero_point_energy_field_manipulator_normal"
+  }
+}

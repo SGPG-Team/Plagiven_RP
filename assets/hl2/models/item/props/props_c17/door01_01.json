@@ -1,0 +1,7 @@
+{
+  "parent": "hl2:item/props/props_c17/door01",
+  "textures": {
+    "main": "hl2:item/props/props_c17/hl2_door01_001",
+    "particle": "hl2:item/props/props_c17/hl2_door01_001"
+  }
+}

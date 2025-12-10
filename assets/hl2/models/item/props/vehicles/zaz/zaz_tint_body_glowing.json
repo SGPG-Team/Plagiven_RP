@@ -1,0 +1,8 @@
+{
+  "parent": "hl2:item/props/vehicles/zaz/zaz_tint_body",
+  "textures": {
+		"fixed": "hl2:item/props/vehicles/zaz/zaz_fixed_glowing",
+		"tint": "hl2:item/props/vehicles/zaz/zaz_tint",
+		"particle": "hl2:item/props/vehicles/zaz/zaz_fixed_glowing"
+  }
+}

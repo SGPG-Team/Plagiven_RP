@@ -1,0 +1,7 @@
+{
+  "parent": "hl2:item/rope/rope",
+  "textures": {
+    "main": "hl2:item/rope/cable",
+    "particle": "hl2:item/rope/cable"
+  }
+}
