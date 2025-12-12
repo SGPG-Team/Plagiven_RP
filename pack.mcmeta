@@ -2,5 +2,17 @@
     "pack": {
         "pack_format": 46,
         "description": "Plagiven resources"
-    }
+    },
+	"sodium": {
+    "ignored_shaders": [
+      "rendertype_solid.json", 
+      "rendertype_solid.fsh",
+      "rendertype_solid.vsh",
+      "rendertype_cutout.json",
+      "rendertype_cutout_mipped.json",
+      "rendertype_translucent.json",
+      "light.glsl",
+      "fog.glsl"
+    ]
+  }
 }
