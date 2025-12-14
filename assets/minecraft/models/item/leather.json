@@ -1,0 +1,8 @@
+{
+  "parent": "item/ink_sac",
+  "textures": {
+    "0": "bp:item/vehicle/ural/ural_moto_tint_fixed_destroyed",
+    "1": "bp:item/vehicle/ural/ural_moto_tint_destroyed",
+    "particle": "bp:item/vehicle/ural/ural_moto_tint_fixed_destroyed"
+  }
+}

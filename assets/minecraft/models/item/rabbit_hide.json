@@ -1,0 +1,7 @@
+{
+  "parent": "item/turtle_scute",
+  "textures": {
+    "main": "hl2:item/props/vehicles/gaz_24/gaz_24_destroyed",
+    "particle": "hl2:item/props/vehicles/gaz_24/gaz_24_destroyed"
+  }
+}
