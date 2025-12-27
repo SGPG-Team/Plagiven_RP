@@ -94,12 +94,13 @@
 
     "hl2.vehicle.drift_loop":{
         "category": "block",
+        
         "sounds": [
-          {"name": "hl2:vehicle/drift_loop_1"},
-          {"name": "hl2:vehicle/drift_loop_2"},
-          {"name": "hl2:vehicle/drift_loop_3"},
-          {"name": "hl2:vehicle/drift_loop_4"},
-          {"name": "hl2:vehicle/drift_loop_5"}
+          {"name": "hl2:vehicle/drift_loop_1", "pitch": 0.8},
+          {"name": "hl2:vehicle/drift_loop_2", "pitch": 0.8},
+          {"name": "hl2:vehicle/drift_loop_3", "pitch": 0.8},
+          {"name": "hl2:vehicle/drift_loop_4", "pitch": 0.8},
+          {"name": "hl2:vehicle/drift_loop_5", "pitch": 0.8}
         ]
     },
 
@@ -168,6 +169,62 @@
         "sounds": [
           {"name": "hl2:weapon/airboat/airboat_gun_lastshot_1"},
           {"name": "hl2:weapon/airboat/airboat_gun_lastshot_2"}
+        ]
+    },
+    "btr_engine_start":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/btr/btr_engine_start"}
+        ]
+    },
+    "btr_engine_stop":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/btr/btr_engine_stop"}
+        ]
+    },
+    "btr_engine_idle":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/btr/btr_engine_idle"}
+        ]
+    },
+    "btr_engine_rpm_high":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/btr/btr_engine_rpm_high"}
+        ]
+
+
+
+
+
+
+
+
+    },
+    "ural_engine_idle":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/ural/ural_engine_idle", "pitch": 1.2}
+        ]
+    },
+    "ural_engine_rpm_high":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/ural/ural_engine_rpm_high"}
+        ]
+    },
+    "ural_engine_start":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/ural/ural_engine_start", "pitch": 0.8}
+        ]
+    },
+    "ural_engine_stop":{
+        "category": "block",
+        "sounds": [
+          {"name": "hl2:vehicle/ural/ural_engine_stop"}
         ]
     }
 }

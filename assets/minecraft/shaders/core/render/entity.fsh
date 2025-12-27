@@ -4,12 +4,14 @@
 #moj_import <minecraft:fog.glsl>
 #moj_import <minecraft:matf.glsl>
 
+
 uniform sampler2D Sampler0;
 
 uniform vec4 ColorModulator;
 uniform float FogStart;
 uniform float FogEnd;
 uniform vec4 FogColor;
+
 uniform mat3 IViewRotMat;
 uniform mat4 ModelViewMat;
 uniform float GameTime;
@@ -59,5 +61,4 @@ void main() {
     else {
     fragColor = linear_fog(color, vertexDistance, FogStart, FogEnd, FogColor);
     }
-
 }

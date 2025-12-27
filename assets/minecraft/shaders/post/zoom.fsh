@@ -1,7 +1,7 @@
 #version 150
 
 #define RADIUS 0.5
-#define SCALE 4.0
+#define SCALE 3.0
 
 uniform sampler2D InSampler;
 uniform sampler2D DataSampler;

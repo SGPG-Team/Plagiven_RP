@@ -435,6 +435,54 @@
         {
             "type": "single",
             "resource": "plagiven:gun_new/12_gauge"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/mosin189130"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/pu_scope"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/m4a1_other"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/m24_retextured"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/762x51"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/x6_10x_scope"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/sks_tactical_2_uv"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/dragonuv_svd"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/db_s_uv"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/db_12_gauge_uv"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/m1014_1"
+        },
+        {
+            "type": "single",
+            "resource": "plagiven:gun_new/m1014_12_gauge"
         }
 
 
